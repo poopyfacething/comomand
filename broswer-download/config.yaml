@@ -1,0 +1,11 @@
+beef:
+    module:
+       browsers_download:
+            enable: true
+            category: "Social Engineering"
+            name: "Browsers Download"
+            description: "Broswer Download Things"
+            authors: ["ME"]
+            target:
+                 user_notify: ["FF", "C"]
+                 not_working: ["IE", "O"]
